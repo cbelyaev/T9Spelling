@@ -1,0 +1,16 @@
+*.suo
+*.suo
+*.trx
+*.user
+*.opensdf
+*.sdf
+*.db
+*.opendb
+*.DotSettings
+_ReSharper*
+/.vs
+/packages
+/T9Spelling/bin
+/T9Spelling/obj
+/Tests/bin
+/Tests/obj
